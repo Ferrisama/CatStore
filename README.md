@@ -1,6 +1,7 @@
 # CatStore - my Webpage
 
 Welcome to CatStore! This README.md file provides an overview of what my webpage is all about and how to use it.
+This project is related to creating a marketplace using NextJS 13 and APIs. This is my first attempt trying this.
 
 ## Table of Contents
 
